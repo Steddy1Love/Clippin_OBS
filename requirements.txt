@@ -1,0 +1,9 @@
+# Python version: use Python 3.9+ (configured in your environment, not via pip)
+
+# Libraries for the Twitch VOD chat scanner in main.py
+# (uses only the Python standard library; no extra packages needed)
+
+# Libraries for the OBS clipboard image → OBS source script
+Pillow>=10.0.0
+obsws-python>=1.6.0
+keyboard>=0.13.5
